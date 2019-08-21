@@ -17,7 +17,7 @@
 </a>
 <br>
 <a href="https://github.com/officialpiyush/number-guesser-bot">
-<img src="https://img.shields.io/codacy/grade/65d316633e8f403795058b2deef6ffb5.svg?style=for-the-badge">
+<img src="https://img.shields.io/codacy/grade/69df194af89f43b2b1586356be8f4598?style=for-the-badge">
 </a>
 <br>
 <a href="https://github.com/officialpiyush/number-guesser-bot">
