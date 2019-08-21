@@ -16,8 +16,6 @@
  * You should have received a copy of the GNU General Public License
  * along with number-guesser-bot.  If not, see <http://www.gnu.org/licenses/>.
  */
-// #[macro_use]
-// extern crate lazy_static;
 use rand::Rng;
 use serde::{Deserialize, Serialize};
 use std::cmp::Ordering;
